@@ -1,0 +1,47 @@
+
+bei der Dateibenennung keine Umlaute, keine Leerstellen, alles klein und .yml hinten dran hängen
+
+name: Massaman-Curry
+type: Asiatisch
+ingredients:
+  - Fenchelsamen
+  - Kreuzkümmelsamen
+  - Koriandersamen
+  - Nelken
+  - 2 Stängel Zitronengras
+  - 8 Schalotten
+  - 4 Knoblauchzehen
+  - Ingwer
+  - frischer Koriander
+  - Kaffir-Limettenblätter
+  - Chilipulver
+  - 400ml Kokosmilch
+  - 500g Kartoffeln
+  - 300g Gemüse nach Wahl
+  - Gemüsebrühe
+  - Tamarindenpaste
+  - Lorbeerblätter
+  - 1 Zimtstange
+  - geröstete Erdnüsse
+  - Reis als Beilage
+recipie:
+  - name: Zubereitung
+    steps:
+      - auf Wunsch Reis zubereiten 
+      - Fenchelsamen, Kreuzkümmelsamen, Koriandersamen, Nelken ca 2 Minuten in einem großen Topf rösten
+      - geröstete Gewürze zur Seite stellen, Öl in den Topf
+      - 2 Zitrongengrasstängel, 8 Schalotten, 4 Knoblauchzehen, ca 2cm Ingwer fein Hacken, dann im Topf anbraten
+      - Zutaten aus dem Topf in den Mixer
+      - "hinzugeben: geröstete Gewürze, 10 Stiele von frischem Koriander, 3 Kaffir-Limettenblätter, Chilipulver"
+      - mixen, bei Bedarf etwas Wasser hinzugeben, damit es eine schöne Paste ergibt
+      - Paste für ca 2 Minuten im Topf braten
+      - 400ml Kokosmilch hinzugeben und köcheln, bis diese um ein Drittel reduziert wurde
+      - 500g Kartoffel schälen und in mundgerechte Happen schneiden
+      - 300g Gemüse schneiden
+      - 300 ml Gemüsebrühe in den Topf geben
+      - "hinzugeben: alles an Gemüse, 1 EL Tamarindenpaste, 2 Lorbeerblätter, 1 Zimtstange"
+      - ohne Deckel kurz aufkochen, dann für ca 45 Minuten leicht köcheln, bis die Soße sämig ist
+      - Curry servieren und mit den Korianderblätter und gerösteten Erdnüssen verzoeren
+amount: mit Reis 6 Portionen
+
+
