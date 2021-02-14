@@ -1,0 +1,38 @@
+name: Erdnusssoße mit Tofu
+type: Asiatisch
+ingredients:
+  - 4 EL flüssiger Honig (oder Agavendicksaft)
+  - 8 EL Limittensaft
+  - 8 EL Sojasoße
+  - 3 cm Ingwer
+  - 4 Knoblauchzehen
+  - 1 TL Chilipulver
+  - 400g Tofu
+  - 200g Reisessig
+  - 800g Gemüse
+  - 100g Zwiebeln
+  - 150g crunchy Erdnussbutter (Spar Peanut Butter American Style)
+recipie:
+  - name: Sate-Marinade
+    steps:
+      - Honig mit Limittensaft und Sojasoße in einer Schlüssel verrühren
+      - Ingwer schälen, fein reiben un dazu geben
+      - Knoblauch fein schneiden und dazugeben
+      - Chilipulver dazugeben
+      - alles gut vermischen
+      - Tofu in 1,5 cm dicke Würfel schneiden
+      - in einer flahcen Form imt Marinade übergießen
+      - 1h warten
+  - name: Erdnusssoße
+    steps:
+    - Zwiebeln schälen und fein würfeln
+    - Marinadenreste von oben mittels Sieb auffangen
+    - Zwiebeln in einem kleinen Topf 4 min anbraten
+    - mit 200ml Wasser ablöschen
+    - Erdnussbutter und Marinadenreste dazugeben und gut verrühren
+    - kurz aufkochen und abschmecken
+  - name: Reisgemüße
+    - Reis kochen
+    - Gemüse schneiden und brutzeln
+    - alles zusammen servieren
+amount: 4 Portionen
