@@ -1,8 +1,9 @@
 name: Bananencurry
 type: Asiatisch
 ingredients:
-  - 800g Süßkartoffeln
+  - 600g Süßkartoffeln
   - 300g Lauch
+  - 400g Kartoffeln
   - 1-2 rote Chilishoten
   - 2 EL Kokosöl
   - 2 große TL Currypaste
@@ -12,11 +13,11 @@ ingredients:
   - 2 reife Bananen
   - 240g Mais
   - 2 EL Limittensaft
-  - Fladenbrot
+  - optional Fladenbrot
 recipie:
   - name: Zubereitung
     steps:
-      - Süßkartoffeln schälen und 2cm große würfeln
+      - Süßkartoffeln und Kartoffeln schälen und 2cm große würfeln
       - Lauch in kleine Ringe schneiden
       - Chilis fein würfeln
       - Öl erhizen und Süßkartoffeln, Lauch und Chilis darin 5 min anbraten
@@ -25,4 +26,4 @@ recipie:
       - Kokosmilch dazugeben
       - 12 min köcheln
       - in Schalen füllen, mit Koriander und Sesam bestreuen und mit Fladenbrot servieren
-amount: 4 Portionen
+amount: 6 Portionen
