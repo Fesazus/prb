@@ -8,6 +8,7 @@ ingredients:
   - 0,5 Pk. Backpulver
   - 5 Eier
   - zartbitter Schokoraspel, 100g
+  - bei Bedarf 100G Kouvertüre
 recipie:
   - name: Zubereitung
     steps:
@@ -23,4 +24,5 @@ recipie:
     - 100g Schokoraspeln unterheben
     - Backofen auf 180°C Ober-/Unterhitze vorheizen
     - 50 min backen
+    - bei Bedarf mit 100g Kouvertüre bestreichen
 amount: ein 26" Kuchen
